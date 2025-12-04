@@ -1,0 +1,13 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore compiled executables (no file extension in Linux/Mac)
+serial_cracker
+omp_cracker
+mpi_cracker
+cuda_cracker
+
+# Ignore object files and compiled binaries
+*.o
+*.out
+*.exe
