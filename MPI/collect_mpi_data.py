@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 PASSWORD = "9999"  # The hard password
 PROCESS_COUNTS = [1, 2, 4, 8, 16]
 OUTPUT_CSV = "mpi_results.csv"
-SERIAL_TIME = 17.87  # Your specific serial time
+SERIAL_TIME = 29.8511  # Your specific serial time
 
 def run_command(command, input_str=None):
     """Runs a shell command and returns output."""
