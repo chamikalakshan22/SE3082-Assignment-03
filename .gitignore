@@ -1,6 +1,9 @@
 # Ignore Mac system files
 .DS_Store
 
+# Ignore VSCode settings
+.vscode/
+
 # Ignore compiled executables (no file extension in Linux/Mac)
 serial_cracker
 omp_cracker
