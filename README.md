@@ -147,10 +147,10 @@ All implementations measure:
 
 ## 👤 Author
 
-Student ID: IT23230910
-Student Name : W.P.C.L.Pathirana
-Course: Parallel Computing - Y3S1
-Institution: SLIIT
+- Student ID: IT23230910
+- Student Name : W.P.C.L.Pathirana
+- Course: Parallel Computing - Y3S1
+- Institution: SLIIT
 
 ## 📄 License
 
